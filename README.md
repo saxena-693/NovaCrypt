@@ -114,19 +114,24 @@ This project focuses on **understanding encryption mechanics, transformation cha
 
 ---
 ## 🖥Web App Preview  
-📌Screenshots captured from the NovaCrypt Streamlit Web Application
-
+📌Screenshots captured from the NovaCrypt Streamlit Web Application  
+### 🏠Main Interface  
 <p align="center">
-  <b>🏠Main Interface</b>&nbsp;&nbsp;&nbsp;
-  <b>🔐Encryption Panel</b>&nbsp;&nbsp;&nbsp;
-  <b>✨Result Display</b>
+  <img src="./screenshots/home.png" width="600"/>
 </p>
 
+---
 
+### 🔐Encryption Panel  
 <p align="center">
-  <img src="./screenshots/home.png" width="300" />
-  <img src="./screenshots/encrypt.png" width="300" />
-  <img src="./screenshots/result.png" width="300" />
+  <img src="./screenshots/encrypt.png" width="600"/>
+</p>
+
+---
+
+### ✨Result Display  
+<p align="center">
+  <img src="./screenshots/result.png" width="600"/>
 </p>
 
 ---
