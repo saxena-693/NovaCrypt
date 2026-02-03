@@ -144,14 +144,13 @@ Below are short walkthrough demonstrations of each mode in action.
 ### 🌐Streamlit Web Application Demo
 
 ▶️Watch the Web App Demo:
+https://github.com/user-attachments/assets/84aa8386-84b7-46bc-9305-55f93b0d844b
 
-<video src="demo/NovaCrypt - WebApp Live Demo.mp4" controls width="800"></video>
 
-### 💻CLI Interface Demo 
+### 💻CLI Interface Demo
 
-▶️ Watch the CLI Demo:
-
-<video src="demo/NovaCrypt - CLI Live Demo.mp4" controls width="800"></video>
+▶️Watch the CLI Demo:
+https://github.com/user-attachments/assets/0d514850-e667-4078-9dcf-c8373314e6da
 
 ---
 ## ⚙️System Requirements  
