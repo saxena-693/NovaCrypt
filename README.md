@@ -1,5 +1,5 @@
 # 🔐NovaCrypt — Multi-Layer Encryption Toolkit  
-**A modular Python toolkit demonstrating layered classical encryption, hashing, and interactive cryptography workflows through Web and CLI interfaces.**
+**A modular Python toolkit demonstrating layered classical encryption, hashing, and interactive cryptography workflows through Web and CLI interfaces.** <br>
 🚀**Live App:** https://novacrypt.streamlit.app/
 
 <p align="center">
