@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Interface-Web%20%2B%20CLI-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Cryptography%20Fundamentals-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Cryptography%20Fundamentals-pink?style=for-the-badge"/>
 </p>
 
 <p align="center">
